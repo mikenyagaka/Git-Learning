@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::cout << "I am learning Git and GitHub!";
+    std::cout << "I am learning Git deeply!";
 
     std::cout << "\nGit tracks my changes!";
 
