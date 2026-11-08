@@ -10,8 +10,6 @@ int main()
 
     std::cout << "\nThis is my experimental branch!";
 
-    std::cout << "\nThis feature will be reverted!";
-
     // Learning how Git fetch and pull work.
 
     return 0;
